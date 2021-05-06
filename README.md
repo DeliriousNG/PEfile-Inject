@@ -13,4 +13,4 @@ pip install foobar
 
 ## Usage
 - Run **peInject.py** to inject section into a PE file, for example [putty](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
-- **Check.py** to check the last section information
+- **Check.py** to check the *Last section PointerToRawData*
